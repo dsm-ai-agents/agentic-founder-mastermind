@@ -33,25 +33,25 @@ based on the icp document, create the campaign for the first icp
 ```
 
 
-# Prompt #2 - 
+## Prompt #2 - 
 ```
 can you give me the boolean search string for the icp?
 ```
 
 
-# Prompt #3 - 
+## Prompt #3 - 
 ```
 [Boolean search link] use this to add people to the campaign
 ```
 
 
-# Prompt #4 - 
+## Prompt #4 - 
 ```
 based on the icp document, can you create an sop and a sequence to test based on my offerings
 ```
 
 
-# Learn command - 
+## Learn command - 
 ```
 /learn look up the best case practices to use sales robot, turn that into a skill. keep in mind that you have the sales robot mcp connected and you have access to my icp document.
 ```
