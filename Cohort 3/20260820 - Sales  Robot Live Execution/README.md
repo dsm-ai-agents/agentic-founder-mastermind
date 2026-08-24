@@ -29,7 +29,7 @@ Based on ICP 1 generate Linkedin people searches and also validate for results [
 
 ## Prompt #2 - 
 ```
-can you give me the boolean search string for the icp?
+Create a new campaign with Boolean people search, outreach campaign sequence on Salesrobot
 ```
 
 
