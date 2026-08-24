@@ -17,7 +17,7 @@ https://easy-jewel-043.notion.site/SalesRobot-MCP-setup-guide-run-LinkedIn-campa
 
 ## Testing if Sales Robot is working
 ```
-do you have access to the sales robot, if yes what can you do on sates robot with the toots you have
+do you have access to the sales robot mcp, if yes what can you do on sates robot with the tools you have
 ```
 
 
