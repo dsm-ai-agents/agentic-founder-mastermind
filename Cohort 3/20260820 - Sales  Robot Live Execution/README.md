@@ -33,15 +33,10 @@ Create a new campaign with Boolean people search, outreach campaign sequence on 
 ```
 
 
+
 ## Prompt #3 - 
 ```
-[Boolean search link] use this to add people to the campaign
-```
-
-
-## Prompt #4 - 
-```
-based on the icp document, can you create an sop and a sequence to test based on my offerings
+Based on ICP document, create an AI SOP manager for this campaign.
 ```
 
 
