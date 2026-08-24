@@ -23,7 +23,7 @@ do you have access to the sales robot mcp, if yes what can you do on sates robot
 
 ## Prompt #1 - 
 ```
-based on the icp document, create the campaign for the first icp
+Based on ICP 1 generate Linkedin people searches and also validate for results [path for the icp.md file]
 ```
 
 
