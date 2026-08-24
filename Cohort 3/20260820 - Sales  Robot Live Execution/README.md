@@ -21,12 +21,6 @@ do you have access to the sales robot mcp, if yes what can you do on sates robot
 ```
 
 
-## Getting the steps to use sales robot
-```
-I want to target the first, how can i use the sates robot mcp to achieve this. only give me the steps
-```
-
-
 ## Prompt #1 - 
 ```
 based on the icp document, create the campaign for the first icp
